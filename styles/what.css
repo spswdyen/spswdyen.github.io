@@ -7,13 +7,13 @@ h3{color: white}
 p{color: white}
 
 div.01{width: 300px;height: 400px}
-#01{float: left;}
+img{float: left;}
 div.01-end{clear: both;}
 
 div.02{width: 300px;height: 400px}
-#02{float: left;}
+img{float: left;}
 div.02-end{clear: both;}
 
 div.03{width: 400px;height: 600px}
-#03{float: left;}
+img{float: left;}
 div.03-end{clear: both;}
