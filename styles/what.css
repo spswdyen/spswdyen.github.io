@@ -6,14 +6,14 @@ h2{color: white}
 h3{color: white}
 p{color: white}
 
-div.01{border-width: 500px;  border-style: solid;  border-color: gray;  border-radius: 600px; }
+div.01{border-width: 250px;  border-style: solid;  border-color: gray;  border-radius: 600px;height: 400px }
 img{float: left;}
 div.01-end{clear: both;}
 
-div.02{border-width: 500px;  border-style: solid;  border-color: gray;  border-radius: 600px; }
+div.02{border-width: 250px;  border-style: solid;  border-color: gray;  border-radius: 600px; height: 400px}
 img{float: left;}
 div.02-end{clear: both;}
 
-div.03{border-width: 600px;  border-style: solid;  border-color: gray;  border-radius: 700px; }
+div.03{border-width: 350px;  border-style: solid;  border-color: gray;  border-radius: 600px; height: 400px}
 img{float: left;}
 div.03-end{clear: both;}
