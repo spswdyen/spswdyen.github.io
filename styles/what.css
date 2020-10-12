@@ -9,6 +9,7 @@ p{color: white}
 #center{display: table;width: 948px}
 #nav,#content{display: table-cell;}
 #nav{width: 150px}
+
 div.01{border-width: 1px;  border-style: solid;  border-color: gray;  border-radius: 5px; }
 img{float: left;}
 div.01-end{clear: both;}
