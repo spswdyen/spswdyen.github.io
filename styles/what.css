@@ -7,13 +7,13 @@ h3{color: white}
 p{color: white}
 
 div.01{border-width: 10px;  border-style: solid;  border-color: gray;  border-radius: 50px;}
-img{float: left;}
+#01{float: left;}
 div.01-end{clear: both;}
 
 div.02{border-width: 10px;  border-style: solid;  border-color: gray;  border-radius: 50px;}
-img{float: left;}
+#02{float: right;}
 div.02-end{clear: both;}
 
 div.03{border-width: 10px;  border-style: solid;  border-color: gray;  border-radius: 50px;}
-img{float: left;}
+#03{float: left;}
 div.03-end{clear: both;}
