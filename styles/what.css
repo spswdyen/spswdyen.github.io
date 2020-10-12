@@ -3,3 +3,6 @@ h1{color: white}
 h2{color: white}
 h3{color: white}
 p{color: white}
+div.01{border-width: 1px;  border-style: solid;  border-color: gray;  border-radius: 5px; }
+div.02{border-width: 1px;  border-style: solid;  border-color: gray;  border-radius: 5px; }
+div.03{border-width: 1px;  border-style: solid;  border-color: gray;  border-radius: 5px; }
