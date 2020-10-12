@@ -1,5 +1,5 @@
 body{background-image: url(http://m.qpic.cn/psc?/V52sfFAr0UXORh4dU5jx3yfYcz0VWmg7/45NBuzDIW489QBoVep5mcS2j8nJihBvbKjbGMfSYy9WDYR8Abloq4Sor0qjOM1.GcNwoSsGsO4OsWqzR2twmPWhv26hogzjmyH6ToQ536Hk!/b&bo=BgL1AgAAAAABF8M!&rf=viewer_4&t=5);
-     width: 960px;  margin-left: auto;  margin-right: auto; }
+     width: 1050px;  margin-left: auto;  margin-right: auto; }
 
 h1{color: white}
 h2{color: white}
@@ -7,13 +7,13 @@ h3{color: white}
 p{color: white}
 
 div.01{border-width: 10px;  border-style: solid;  border-color: gray;  border-radius: 50px; }
-img{float: left;border-width: 5px;border-radius: 15px}
+img{float: left;}
 div.01-end{clear: both;}
 
-div.02{border-width: 1px;  border-style: solid;  border-color: gray;  border-radius: 5px; }
-img{float: right;}
+div.02{border-width: 10px;  border-style: solid;  border-color: gray;  border-radius: 50px; }
+img{float: left;}
 div.02-end{clear: both;}
 
-div.03{border-width: 1px;  border-style: solid;  border-color: gray;  border-radius: 5px; }
+div.03{border-width: 10px;  border-style: solid;  border-color: gray;  border-radius: 50px; }
 img{float: left;}
 div.03-end{clear: both;}
